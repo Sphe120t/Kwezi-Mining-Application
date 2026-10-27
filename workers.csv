@@ -1,0 +1,161 @@
+Worker ID,Department,Job Role,Shift,PPE Compliance,Training Status,Fatigue Level,Safety Observations,Near Misses,Previous Incidents
+W0001,Maintenance Workshop,Electrician,Day,Compliant,Valid,1,2,1,2
+W0002,Processing Plant,Technician,Night,Compliant,Valid,7,0,2,0
+W0003,Logistics,Driver,Night,Compliant,Valid,7,1,2,0
+W0004,Open Pit,Surveyor,Day,Compliant,Valid,2,4,2,0
+W0005,Maintenance Workshop,Boilermaker,Day,Compliant,Valid,5,4,0,1
+W0006,Open Pit,Truck Driver,Afternoon,Compliant,Valid,6,2,1,0
+W0007,Engineering,Geologist,Day,Compliant,Valid,5,3,1,0
+W0008,Underground Mining,Miner,Afternoon,Compliant,Valid,5,1,1,0
+W0009,Processing Plant,Technician,Day,Compliant,Pending,4,4,1,0
+W0010,Logistics,Dispatcher,Afternoon,Compliant,Valid,5,2,1,1
+W0011,Processing Plant,Metallurgist,Afternoon,Compliant,Valid,7,1,0,0
+W0012,Underground Mining,Miner,Night,Compliant,Valid,7,0,2,0
+W0013,Open Pit,Excavator Operator,Afternoon,Compliant,Valid,5,2,0,1
+W0014,Logistics,Driver,Day,Compliant,Valid,3,2,1,2
+W0015,Underground Mining,Miner,Day,Compliant,Expired,5,2,1,2
+W0016,Underground Mining,Shift Boss,Day,Compliant,Pending,4,4,2,0
+W0017,Maintenance Workshop,Fitter,Day,Compliant,Valid,7,1,2,0
+W0018,Maintenance Workshop,Boilermaker,Night,Compliant,Valid,7,1,1,0
+W0019,Maintenance Workshop,Electrician,Afternoon,Compliant,Valid,2,0,0,2
+W0020,Open Pit,Truck Driver,Day,Compliant,Valid,6,2,1,0
+W0021,Underground Mining,Miner,Day,Compliant,Pending,3,2,0,1
+W0022,Maintenance Workshop,Boilermaker,Day,Compliant,Valid,2,2,1,0
+W0023,Underground Mining,Rock Engineer,Afternoon,Compliant,Valid,4,1,0,0
+W0024,Logistics,Driver,Day,Compliant,Valid,1,0,0,0
+W0025,Underground Mining,Shift Boss,Afternoon,Compliant,Valid,5,2,0,0
+W0026,Underground Mining,Shift Boss,Afternoon,Compliant,Valid,2,1,1,1
+W0027,Logistics,Dispatcher,Night,Compliant,Valid,5,0,1,1
+W0028,Open Pit,Surveyor,Day,Compliant,Valid,3,2,0,0
+W0029,Open Pit,Truck Driver,Day,Compliant,Pending,5,2,3,1
+W0030,Open Pit,Blaster,Afternoon,Compliant,Valid,4,1,1,2
+W0031,Underground Mining,Miner,Night,Compliant,Valid,5,3,1,0
+W0032,Processing Plant,Technician,Afternoon,Compliant,Valid,5,3,0,0
+W0033,Processing Plant,Technician,Day,Compliant,Valid,4,2,0,0
+W0034,Underground Mining,Rock Engineer,Night,Compliant,Valid,9,4,3,1
+W0035,Processing Plant,Metallurgist,Day,Compliant,Valid,6,2,1,2
+W0036,Maintenance Workshop,Electrician,Day,Non-Compliant,Expired,3,1,3,2
+W0037,Underground Mining,Drill Operator,Day,Compliant,Valid,3,1,0,0
+W0038,Processing Plant,Plant Operator,Night,Compliant,Expired,5,5,0,0
+W0039,Open Pit,Blaster,Afternoon,Compliant,Valid,2,1,3,0
+W0040,Underground Mining,Shift Boss,Night,Compliant,Valid,5,2,2,0
+W0041,Logistics,Store Controller,Day,Compliant,Valid,6,1,0,0
+W0042,Underground Mining,Shift Boss,Day,Compliant,Valid,2,3,0,0
+W0043,Open Pit,Excavator Operator,Day,Compliant,Valid,2,4,2,1
+W0044,Open Pit,Excavator Operator,Afternoon,Compliant,Expired,6,3,2,0
+W0045,Engineering,Mining Engineer,Day,Compliant,Valid,5,1,2,0
+W0046,Processing Plant,Plant Operator,Day,Compliant,Pending,8,3,0,1
+W0047,Underground Mining,Rock Engineer,Day,Compliant,Valid,5,4,1,0
+W0048,Maintenance Workshop,Electrician,Day,Compliant,Valid,2,1,0,0
+W0049,Open Pit,Blaster,Afternoon,Compliant,Valid,3,4,0,0
+W0050,Open Pit,Excavator Operator,Night,Compliant,Valid,10,4,1,0
+W0051,Open Pit,Blaster,Night,Compliant,Valid,7,0,2,0
+W0052,Underground Mining,Shift Boss,Day,Compliant,Valid,1,6,1,1
+W0053,Open Pit,Surveyor,Afternoon,Non-Compliant,Pending,5,3,0,1
+W0054,Open Pit,Blaster,Night,Compliant,Pending,7,1,3,0
+W0055,Open Pit,Excavator Operator,Day,Compliant,Valid,4,3,0,1
+W0056,Engineering,Mining Engineer,Day,Compliant,Valid,4,3,1,1
+W0057,Open Pit,Excavator Operator,Afternoon,Compliant,Expired,2,0,0,1
+W0058,Engineering,Planner,Night,Compliant,Valid,6,4,2,0
+W0059,Underground Mining,Shift Boss,Day,Compliant,Valid,6,4,1,0
+W0060,Logistics,Dispatcher,Afternoon,Compliant,Valid,5,1,0,0
+W0061,Engineering,Mining Engineer,Day,Compliant,Valid,5,6,1,1
+W0062,Logistics,Store Controller,Afternoon,Compliant,Valid,1,0,0,0
+W0063,Underground Mining,Drill Operator,Afternoon,Compliant,Valid,3,1,1,0
+W0064,Open Pit,Blaster,Day,Compliant,Valid,2,0,1,0
+W0065,Open Pit,Excavator Operator,Night,Compliant,Valid,2,2,0,2
+W0066,Underground Mining,Rock Engineer,Afternoon,Compliant,Valid,6,1,0,0
+W0067,Underground Mining,Shift Boss,Day,Compliant,Valid,2,1,2,1
+W0068,Engineering,Planner,Day,Non-Compliant,Valid,7,3,2,0
+W0069,Open Pit,Surveyor,Day,Compliant,Valid,2,3,2,0
+W0070,Maintenance Workshop,Fitter,Day,Compliant,Pending,3,0,2,2
+W0071,Logistics,Dispatcher,Afternoon,Compliant,Valid,2,3,1,1
+W0072,Underground Mining,Shift Boss,Afternoon,Compliant,Valid,5,4,1,1
+W0073,Processing Plant,Technician,Day,Non-Compliant,Valid,4,2,0,1
+W0074,Logistics,Dispatcher,Day,Compliant,Valid,4,3,2,2
+W0075,Engineering,Planner,Night,Compliant,Valid,5,4,0,0
+W0076,Processing Plant,Plant Operator,Day,Compliant,Pending,3,1,0,0
+W0077,Underground Mining,Miner,Afternoon,Non-Compliant,Valid,2,3,0,0
+W0078,Open Pit,Excavator Operator,Day,Compliant,Valid,5,2,0,0
+W0079,Maintenance Workshop,Boilermaker,Night,Non-Compliant,Pending,4,0,0,0
+W0080,Processing Plant,Technician,Day,Compliant,Valid,2,1,0,1
+W0081,Processing Plant,Technician,Afternoon,Compliant,Valid,5,3,1,0
+W0082,Engineering,Mining Engineer,Day,Compliant,Valid,2,4,0,0
+W0083,Underground Mining,Miner,Night,Compliant,Valid,10,2,0,0
+W0084,Logistics,Driver,Afternoon,Non-Compliant,Valid,6,1,0,0
+W0085,Logistics,Driver,Day,Compliant,Valid,3,3,1,2
+W0086,Open Pit,Blaster,Day,Compliant,Valid,8,2,1,1
+W0087,Underground Mining,Drill Operator,Night,Compliant,Valid,6,1,0,2
+W0088,Open Pit,Excavator Operator,Afternoon,Compliant,Valid,2,3,2,0
+W0089,Logistics,Dispatcher,Afternoon,Compliant,Valid,6,3,1,0
+W0090,Logistics,Driver,Day,Compliant,Valid,3,1,0,1
+W0091,Processing Plant,Plant Operator,Afternoon,Compliant,Valid,4,3,0,0
+W0092,Open Pit,Truck Driver,Afternoon,Non-Compliant,Valid,6,3,1,3
+W0093,Open Pit,Blaster,Afternoon,Compliant,Expired,6,3,1,1
+W0094,Open Pit,Truck Driver,Day,Non-Compliant,Pending,2,5,0,1
+W0095,Open Pit,Excavator Operator,Day,Compliant,Valid,3,2,0,1
+W0096,Engineering,Planner,Day,Compliant,Valid,3,2,1,2
+W0097,Logistics,Driver,Day,Compliant,Valid,4,1,1,0
+W0098,Processing Plant,Plant Operator,Afternoon,Compliant,Valid,3,2,2,0
+W0099,Open Pit,Excavator Operator,Day,Compliant,Valid,1,2,2,2
+W0100,Underground Mining,Shift Boss,Night,Compliant,Valid,7,0,0,0
+W0101,Open Pit,Truck Driver,Night,Compliant,Expired,6,1,2,0
+W0102,Open Pit,Truck Driver,Afternoon,Compliant,Valid,4,2,0,0
+W0103,Maintenance Workshop,Boilermaker,Day,Compliant,Valid,5,2,1,0
+W0104,Engineering,Mining Engineer,Night,Compliant,Valid,4,3,2,0
+W0105,Underground Mining,Drill Operator,Afternoon,Compliant,Valid,4,3,1,0
+W0106,Processing Plant,Metallurgist,Day,Compliant,Valid,3,1,2,2
+W0107,Underground Mining,Drill Operator,Day,Compliant,Valid,6,0,0,0
+W0108,Underground Mining,Shift Boss,Day,Compliant,Valid,2,0,0,0
+W0109,Processing Plant,Technician,Day,Non-Compliant,Valid,1,0,1,1
+W0110,Maintenance Workshop,Boilermaker,Night,Compliant,Pending,4,1,3,3
+W0111,Open Pit,Excavator Operator,Afternoon,Compliant,Valid,3,0,0,0
+W0112,Underground Mining,Rock Engineer,Night,Compliant,Valid,5,4,0,0
+W0113,Processing Plant,Plant Operator,Afternoon,Compliant,Valid,6,1,0,1
+W0114,Open Pit,Blaster,Day,Compliant,Valid,3,4,1,2
+W0115,Processing Plant,Metallurgist,Day,Compliant,Valid,3,4,1,1
+W0116,Open Pit,Truck Driver,Afternoon,Compliant,Valid,4,5,2,0
+W0117,Engineering,Mining Engineer,Afternoon,Non-Compliant,Valid,7,2,2,0
+W0118,Engineering,Planner,Day,Compliant,Valid,6,1,0,0
+W0119,Underground Mining,Rock Engineer,Afternoon,Compliant,Valid,6,1,1,1
+W0120,Logistics,Store Controller,Day,Compliant,Expired,3,2,3,1
+W0121,Open Pit,Excavator Operator,Night,Non-Compliant,Expired,7,1,2,0
+W0122,Open Pit,Truck Driver,Day,Non-Compliant,Valid,3,2,5,0
+W0123,Maintenance Workshop,Electrician,Afternoon,Non-Compliant,Pending,7,2,0,0
+W0124,Underground Mining,Shift Boss,Day,Compliant,Valid,2,1,0,0
+W0125,Logistics,Store Controller,Day,Non-Compliant,Pending,6,0,0,0
+W0126,Underground Mining,Shift Boss,Afternoon,Non-Compliant,Valid,4,2,2,0
+W0127,Underground Mining,Shift Boss,Day,Compliant,Valid,3,1,2,0
+W0128,Maintenance Workshop,Boilermaker,Day,Non-Compliant,Valid,2,2,2,0
+W0129,Open Pit,Blaster,Day,Compliant,Valid,4,4,3,1
+W0130,Engineering,Planner,Afternoon,Compliant,Valid,6,3,1,0
+W0131,Underground Mining,Drill Operator,Afternoon,Compliant,Valid,1,2,1,0
+W0132,Open Pit,Truck Driver,Afternoon,Non-Compliant,Valid,6,1,1,0
+W0133,Open Pit,Blaster,Day,Compliant,Valid,1,5,0,0
+W0134,Open Pit,Blaster,Day,Compliant,Valid,7,1,1,0
+W0135,Underground Mining,Miner,Night,Compliant,Valid,2,6,0,0
+W0136,Open Pit,Surveyor,Day,Compliant,Valid,1,0,0,1
+W0137,Engineering,Geologist,Night,Non-Compliant,Valid,6,3,1,0
+W0138,Underground Mining,Rock Engineer,Day,Non-Compliant,Valid,1,1,0,1
+W0139,Underground Mining,Rock Engineer,Night,Compliant,Valid,4,2,1,0
+W0140,Maintenance Workshop,Fitter,Night,Compliant,Expired,4,0,2,0
+W0141,Open Pit,Surveyor,Night,Compliant,Valid,2,1,1,1
+W0142,Processing Plant,Plant Operator,Afternoon,Non-Compliant,Valid,5,3,0,0
+W0143,Underground Mining,Drill Operator,Day,Compliant,Valid,3,2,0,0
+W0144,Logistics,Store Controller,Day,Compliant,Expired,4,0,0,1
+W0145,Maintenance Workshop,Electrician,Day,Compliant,Expired,7,0,1,0
+W0146,Maintenance Workshop,Boilermaker,Day,Compliant,Pending,1,4,1,0
+W0147,Underground Mining,Shift Boss,Afternoon,Compliant,Valid,3,3,1,1
+W0148,Logistics,Store Controller,Afternoon,Non-Compliant,Pending,2,3,1,0
+W0149,Maintenance Workshop,Electrician,Day,Non-Compliant,Valid,3,2,1,0
+W0150,Maintenance Workshop,Boilermaker,Afternoon,Compliant,Valid,6,1,0,2
+W0151,Underground Mining,Shift Boss,Afternoon,Compliant,Valid,5,1,1,0
+W0152,Underground Mining,Drill Operator,Night,Compliant,Valid,2,2,1,2
+W0153,Engineering,Geologist,Day,Compliant,Pending,4,2,0,0
+W0154,Underground Mining,Shift Boss,Day,Non-Compliant,Valid,4,5,1,0
+W0155,Open Pit,Truck Driver,Afternoon,Compliant,Valid,4,2,2,1
+W0156,Open Pit,Truck Driver,Day,Compliant,Pending,2,2,1,1
+W0157,Underground Mining,Shift Boss,Afternoon,Compliant,Valid,3,1,0,0
+W0158,Maintenance Workshop,Boilermaker,Day,Compliant,Valid,4,4,1,1
+W0159,Underground Mining,Shift Boss,Afternoon,Non-Compliant,Valid,7,2,0,0
+W0160,Underground Mining,Drill Operator,Day,Compliant,Valid,3,1,1,1
