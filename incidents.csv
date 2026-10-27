@@ -1,0 +1,131 @@
+Incident ID,Date,Time,Shift,Location,Department,Incident Type,Severity,Injury Status,Lost-Time Injury,Cause,Corrective Action,Incident Status
+INC-0034,2026-05-06,00:44,Night,Blast Area B,Open Pit,Near Miss,High,No Injury,No,Poor housekeeping,Procedure revised,Closed
+INC-0055,2026-05-10,01:03,Night,Pit South Ramp,Open Pit,Equipment Damage,Medium,No Injury,No,Equipment failure,Additional supervision allocated,Closed
+INC-0015,2026-05-10,00:05,Night,Blast Area B,Open Pit,Near Miss,Medium,No Injury,No,Procedure not followed,Lighting improved,Open
+INC-0090,2026-05-11,01:30,Night,Survey Site,Engineering,Vehicle Collision,Low,Lost Time Injury,Yes,PPE not worn,Equipment inspected and repaired,Under Investigation
+INC-0042,2026-05-12,08:11,Day,Pit North Bench,Open Pit,Near Miss,Low,No Injury,No,Poor ground conditions,Area barricaded and cleaned,Closed
+INC-0121,2026-05-13,20:45,Afternoon,Pit North Bench,Open Pit,Vehicle Collision,Medium,Medical Treatment,No,Procedure not followed,Ground support installed,Closed
+INC-0014,2026-05-13,18:31,Afternoon,Wash Bay,Maintenance Workshop,Near Miss,Low,No Injury,No,Poor housekeeping,Equipment inspected and repaired,Closed
+INC-0009,2026-05-15,09:19,Day,Pit South Ramp,Open Pit,Near Miss,Low,No Injury,No,Inadequate supervision,PPE refresher issued,Under Investigation
+INC-0044,2026-05-16,14:26,Afternoon,Shaft 2 Station,Underground Mining,Equipment Damage,Critical,No Injury,No,Poor housekeeping,Equipment inspected and repaired,Closed
+INC-0082,2026-05-16,01:42,Night,Survey Site,Engineering,Near Miss,Critical,No Injury,No,Equipment failure,Area barricaded and cleaned,Closed
+INC-0129,2026-05-16,03:05,Night,Decline Ramp,Underground Mining,Fall of Ground,Low,Lost Time Injury,Yes,Poor housekeeping,Lighting improved,Under Investigation
+INC-0073,2026-05-17,14:31,Afternoon,Tyre Bay,Maintenance Workshop,Near Miss,Medium,No Injury,No,Poor visibility,Equipment inspected and repaired,Closed
+INC-0066,2026-05-19,16:15,Afternoon,Mill Building,Processing Plant,Slip/Trip/Fall,Medium,Lost Time Injury,Yes,PPE not worn,Retraining of crew,Under Investigation
+INC-0060,2026-05-23,22:23,Night,Stores Yard,Logistics,Chemical Exposure,Low,Medical Treatment,No,Training gap,Additional supervision allocated,Closed
+INC-0025,2026-05-25,01:33,Night,Pit North Bench,Open Pit,Near Miss,Low,No Injury,No,Poor ground conditions,PPE refresher issued,Closed
+INC-0079,2026-05-27,22:22,Night,Haul Road,Logistics,Near Miss,Low,No Injury,No,Training gap,Lighting improved,Open
+INC-0070,2026-05-28,22:15,Night,Stores Yard,Logistics,Vehicle Collision,Medium,Medical Treatment,No,Poor ground conditions,Equipment inspected and repaired,Closed
+INC-0021,2026-05-30,05:58,Night,Decline Ramp,Underground Mining,Hand/Finger Injury,Low,Medical Treatment,No,Poor ground conditions,Retraining of crew,Closed
+INC-0068,2026-05-30,12:57,Day,Wash Bay,Maintenance Workshop,Equipment Damage,Critical,No Injury,No,Training gap,Lighting improved,Closed
+INC-0104,2026-05-31,12:57,Day,Tyre Bay,Maintenance Workshop,Fall of Ground,Medium,Lost Time Injury,Yes,Inadequate supervision,Area barricaded and cleaned,Under Investigation
+INC-0113,2026-06-01,07:36,Day,Engineering Office,Engineering,Hand/Finger Injury,Critical,First Aid,No,Fatigue,Additional supervision allocated,Closed
+INC-0002,2026-06-04,07:06,Day,Shaft 2 Station,Underground Mining,Near Miss,Medium,No Injury,No,Equipment failure,PPE refresher issued,Open
+INC-0094,2026-06-06,04:51,Night,Pit South Ramp,Open Pit,Vehicle Collision,Low,Lost Time Injury,Yes,Inadequate supervision,Ground support installed,Closed
+INC-0117,2026-06-06,10:39,Day,Waste Dump,Open Pit,Near Miss,Low,No Injury,No,Training gap,Retraining of crew,Open
+INC-0115,2026-06-08,09:07,Day,Waste Dump,Open Pit,Near Miss,Low,No Injury,No,Training gap,Equipment inspected and repaired,Open
+INC-0067,2026-06-09,15:02,Afternoon,Decline Ramp,Underground Mining,Chemical Exposure,Medium,First Aid,No,Poor visibility,Procedure revised,Closed
+INC-0029,2026-06-09,07:20,Day,Mill Building,Processing Plant,Chemical Exposure,Low,First Aid,No,Poor visibility,Retraining of crew,Closed
+INC-0075,2026-06-13,22:48,Night,Shaft 2 Station,Underground Mining,Near Miss,Low,No Injury,No,Procedure not followed,PPE refresher issued,Closed
+INC-0087,2026-06-16,02:07,Night,Pit South Ramp,Open Pit,Fall of Ground,Low,Medical Treatment,No,Poor visibility,Ground support installed,Closed
+INC-0120,2026-06-16,06:12,Day,Conveyor Gallery,Processing Plant,Near Miss,Low,No Injury,No,Procedure not followed,Ground support installed,Closed
+INC-0118,2026-06-16,16:11,Afternoon,Shaft 2 Station,Underground Mining,Slip/Trip/Fall,Low,Medical Treatment,No,PPE not worn,Equipment inspected and repaired,Closed
+INC-0017,2026-06-18,19:16,Afternoon,Engineering Office,Engineering,Chemical Exposure,Medium,First Aid,No,PPE not worn,Equipment inspected and repaired,Open
+INC-0003,2026-06-20,12:26,Day,Weighbridge,Logistics,Vehicle Collision,High,First Aid,No,Training gap,Lighting improved,Closed
+INC-0039,2026-06-21,21:35,Afternoon,Weighbridge,Logistics,Fire/Explosion,Medium,Lost Time Injury,Yes,Procedure not followed,Lighting improved,Closed
+INC-0100,2026-06-22,03:45,Night,Wash Bay,Maintenance Workshop,Fire/Explosion,Medium,Medical Treatment,No,Equipment failure,Lighting improved,Closed
+INC-0045,2026-06-23,04:31,Night,Waste Dump,Open Pit,Fire/Explosion,Medium,Medical Treatment,No,Poor housekeeping,Retraining of crew,Under Investigation
+INC-0088,2026-06-24,03:21,Night,Pit North Bench,Open Pit,Fire/Explosion,Low,Medical Treatment,No,Poor ground conditions,PPE refresher issued,Closed
+INC-0053,2026-06-24,06:18,Day,Main Workshop,Maintenance Workshop,Hand/Finger Injury,Low,Lost Time Injury,Yes,Poor visibility,Retraining of crew,Under Investigation
+INC-0047,2026-06-25,03:35,Night,Haul Road,Logistics,Near Miss,Low,No Injury,No,Fatigue,Area barricaded and cleaned,Open
+INC-0019,2026-06-26,01:19,Night,Pit South Ramp,Open Pit,Near Miss,Low,No Injury,No,Poor ground conditions,Ground support installed,Closed
+INC-0127,2026-06-27,02:51,Night,Level 8 Haulage,Underground Mining,Near Miss,Medium,No Injury,No,Inadequate supervision,Additional supervision allocated,Under Investigation
+INC-0033,2026-06-29,22:39,Night,Tyre Bay,Maintenance Workshop,Fire/Explosion,Low,First Aid,No,Inadequate supervision,Area barricaded and cleaned,Closed
+INC-0116,2026-06-30,14:11,Afternoon,Pit North Bench,Open Pit,Hand/Finger Injury,Critical,Lost Time Injury,Yes,Inadequate supervision,Lighting improved,Closed
+INC-0130,2026-07-01,03:18,Night,Thickener Area,Processing Plant,Near Miss,Low,No Injury,No,Poor visibility,Ground support installed,Closed
+INC-0069,2026-07-03,10:29,Day,Waste Dump,Open Pit,Hand/Finger Injury,Medium,First Aid,No,Poor ground conditions,Area barricaded and cleaned,Under Investigation
+INC-0122,2026-07-04,22:19,Night,Level 12 Stope,Underground Mining,Near Miss,High,No Injury,No,Poor ground conditions,Ground support installed,Closed
+INC-0077,2026-07-04,21:08,Afternoon,Wash Bay,Maintenance Workshop,Equipment Damage,Medium,No Injury,No,Equipment failure,Retraining of crew,Under Investigation
+INC-0125,2026-07-04,09:43,Day,Tyre Bay,Maintenance Workshop,Near Miss,Low,No Injury,No,Training gap,Retraining of crew,Open
+INC-0048,2026-07-10,05:18,Night,Decline Ramp,Underground Mining,Near Miss,Low,No Injury,No,Fatigue,Procedure revised,Under Investigation
+INC-0031,2026-07-12,19:28,Afternoon,Weighbridge,Logistics,Vehicle Collision,Low,Medical Treatment,No,Fatigue,Procedure revised,Under Investigation
+INC-0004,2026-07-15,17:40,Afternoon,Shaft 2 Station,Underground Mining,Vehicle Collision,Medium,Medical Treatment,No,Poor visibility,Area barricaded and cleaned,Closed
+INC-0011,2026-07-16,09:18,Day,Waste Dump,Open Pit,Hand/Finger Injury,High,First Aid,No,Inadequate supervision,Lighting improved,Open
+INC-0080,2026-07-17,02:48,Night,Pit North Bench,Open Pit,Fall of Ground,High,First Aid,No,Poor visibility,PPE refresher issued,Closed
+INC-0016,2026-07-22,00:30,Night,Level 8 Haulage,Underground Mining,Slip/Trip/Fall,Low,Medical Treatment,No,Poor housekeeping,Ground support installed,Under Investigation
+INC-0054,2026-07-22,21:24,Afternoon,Level 12 Stope,Underground Mining,Fall of Ground,High,Medical Treatment,No,Procedure not followed,Ground support installed,Closed
+INC-0086,2026-07-23,04:23,Night,Decline Ramp,Underground Mining,Slip/Trip/Fall,Low,First Aid,No,Procedure not followed,Retraining of crew,Closed
+INC-0092,2026-07-25,17:15,Afternoon,Shaft 2 Station,Underground Mining,Vehicle Collision,High,First Aid,No,Poor visibility,Ground support installed,Closed
+INC-0105,2026-07-25,02:53,Night,Level 12 Stope,Underground Mining,Fall of Ground,Medium,First Aid,No,Procedure not followed,Retraining of crew,Closed
+INC-0007,2026-07-26,15:32,Afternoon,Pit North Bench,Open Pit,Near Miss,High,No Injury,No,Procedure not followed,Lighting improved,Open
+INC-0012,2026-07-28,04:03,Night,Tyre Bay,Maintenance Workshop,Chemical Exposure,Critical,Medical Treatment,No,Training gap,Additional supervision allocated,Closed
+INC-0059,2026-07-29,15:31,Afternoon,Blast Area B,Open Pit,Hand/Finger Injury,High,Lost Time Injury,Yes,Poor ground conditions,Area barricaded and cleaned,Under Investigation
+INC-0036,2026-07-30,13:09,Day,Wash Bay,Maintenance Workshop,Vehicle Collision,Low,Lost Time Injury,Yes,Training gap,Retraining of crew,Closed
+INC-0110,2026-07-31,13:32,Day,Decline Ramp,Underground Mining,Near Miss,Critical,No Injury,No,Poor ground conditions,Retraining of crew,Closed
+INC-0064,2026-08-02,16:47,Afternoon,Conveyor Gallery,Processing Plant,Equipment Damage,Medium,No Injury,No,Training gap,Additional supervision allocated,Closed
+INC-0013,2026-08-02,09:43,Day,Conveyor Gallery,Processing Plant,Hand/Finger Injury,Low,Medical Treatment,No,Inadequate supervision,Area barricaded and cleaned,Under Investigation
+INC-0035,2026-08-04,08:40,Day,Waste Dump,Open Pit,Slip/Trip/Fall,Medium,First Aid,No,Poor housekeeping,Ground support installed,Under Investigation
+INC-0026,2026-08-05,07:06,Day,Thickener Area,Processing Plant,Slip/Trip/Fall,Low,Medical Treatment,No,Poor housekeeping,Additional supervision allocated,Closed
+INC-0057,2026-08-07,11:10,Day,Survey Site,Engineering,Near Miss,Low,No Injury,No,PPE not worn,Retraining of crew,Closed
+INC-0124,2026-08-10,00:50,Night,Waste Dump,Open Pit,Fall of Ground,Medium,First Aid,No,Poor housekeeping,Additional supervision allocated,Closed
+INC-0072,2026-08-10,03:31,Night,Stores Yard,Logistics,Hand/Finger Injury,Medium,Medical Treatment,No,Poor housekeeping,Lighting improved,Closed
+INC-0005,2026-08-12,08:10,Day,Level 12 Stope,Underground Mining,Fire/Explosion,Medium,First Aid,No,Training gap,Area barricaded and cleaned,Under Investigation
+INC-0096,2026-08-15,05:36,Night,Engineering Office,Engineering,Equipment Damage,Medium,No Injury,No,Procedure not followed,Area barricaded and cleaned,Under Investigation
+INC-0111,2026-08-18,05:28,Night,Level 8 Haulage,Underground Mining,Fall of Ground,Low,Lost Time Injury,Yes,Poor ground conditions,PPE refresher issued,Closed
+INC-0038,2026-08-20,03:29,Night,Haul Road,Logistics,Near Miss,Low,No Injury,No,Inadequate supervision,Equipment inspected and repaired,Closed
+INC-0022,2026-08-23,09:30,Day,Pit South Ramp,Open Pit,Slip/Trip/Fall,Critical,First Aid,No,Poor housekeeping,Procedure revised,Closed
+INC-0030,2026-08-25,18:13,Afternoon,Level 12 Stope,Underground Mining,Slip/Trip/Fall,Low,First Aid,No,PPE not worn,Ground support installed,Closed
+INC-0037,2026-08-25,10:17,Day,Main Workshop,Maintenance Workshop,Equipment Damage,High,No Injury,No,Poor housekeeping,PPE refresher issued,Closed
+INC-0091,2026-08-25,04:57,Night,Crusher House,Processing Plant,Near Miss,Low,No Injury,No,PPE not worn,Additional supervision allocated,Closed
+INC-0040,2026-08-27,17:36,Afternoon,Pit North Bench,Open Pit,Slip/Trip/Fall,Low,Lost Time Injury,Yes,Procedure not followed,Retraining of crew,Closed
+INC-0058,2026-08-28,15:58,Afternoon,Level 8 Haulage,Underground Mining,Hand/Finger Injury,Low,First Aid,No,Equipment failure,Equipment inspected and repaired,Closed
+INC-0008,2026-08-28,10:52,Day,Level 8 Haulage,Underground Mining,Equipment Damage,Medium,No Injury,No,Procedure not followed,Area barricaded and cleaned,Closed
+INC-0109,2026-08-29,10:19,Day,Level 12 Stope,Underground Mining,Near Miss,Medium,No Injury,No,Equipment failure,Retraining of crew,Closed
+INC-0071,2026-08-31,12:46,Day,Shaft 2 Station,Underground Mining,Vehicle Collision,Low,First Aid,No,PPE not worn,Lighting improved,Closed
+INC-0052,2026-09-01,18:39,Afternoon,Level 12 Stope,Underground Mining,Equipment Damage,High,No Injury,No,PPE not worn,Equipment inspected and repaired,Closed
+INC-0043,2026-09-02,16:17,Afternoon,Blast Area B,Open Pit,Vehicle Collision,High,First Aid,No,Fatigue,Lighting improved,Closed
+INC-0093,2026-09-02,00:33,Night,Pit South Ramp,Open Pit,Near Miss,Low,No Injury,No,Procedure not followed,Procedure revised,Closed
+INC-0126,2026-09-03,15:10,Afternoon,Mill Building,Processing Plant,Chemical Exposure,High,First Aid,No,PPE not worn,PPE refresher issued,Under Investigation
+INC-0112,2026-09-04,03:07,Night,Level 8 Haulage,Underground Mining,Vehicle Collision,Medium,First Aid,No,PPE not worn,Equipment inspected and repaired,Closed
+INC-0108,2026-09-04,23:07,Night,Level 8 Haulage,Underground Mining,Fall of Ground,Low,First Aid,No,Fatigue,Procedure revised,Closed
+INC-0028,2026-09-04,23:06,Night,Haul Road,Logistics,Hand/Finger Injury,Medium,Lost Time Injury,Yes,Poor visibility,Additional supervision allocated,Closed
+INC-0078,2026-09-06,12:12,Day,Level 8 Haulage,Underground Mining,Near Miss,Medium,No Injury,No,Poor housekeeping,Procedure revised,Closed
+INC-0119,2026-09-10,05:10,Night,Blast Area B,Open Pit,Equipment Damage,Medium,No Injury,No,Poor visibility,Area barricaded and cleaned,Under Investigation
+INC-0027,2026-09-10,21:40,Afternoon,Weighbridge,Logistics,Near Miss,Medium,No Injury,No,Equipment failure,Equipment inspected and repaired,Closed
+INC-0056,2026-09-10,09:12,Day,Blast Area B,Open Pit,Near Miss,Low,No Injury,No,Procedure not followed,Equipment inspected and repaired,Closed
+INC-0123,2026-09-11,05:14,Night,Stores Yard,Logistics,Equipment Damage,Low,No Injury,No,Procedure not followed,Area barricaded and cleaned,Under Investigation
+INC-0114,2026-09-12,21:43,Afternoon,Thickener Area,Processing Plant,Equipment Damage,Medium,No Injury,No,Training gap,PPE refresher issued,Closed
+INC-0084,2026-09-13,05:20,Night,Shaft 2 Station,Underground Mining,Hand/Finger Injury,Medium,Lost Time Injury,Yes,Training gap,Ground support installed,Closed
+INC-0010,2026-09-13,23:10,Night,Main Workshop,Maintenance Workshop,Hand/Finger Injury,Low,Medical Treatment,No,Poor visibility,Equipment inspected and repaired,Closed
+INC-0049,2026-09-14,18:49,Afternoon,Pit North Bench,Open Pit,Vehicle Collision,Medium,Medical Treatment,No,Equipment failure,Procedure revised,Open
+INC-0107,2026-09-22,20:50,Afternoon,Pit South Ramp,Open Pit,Vehicle Collision,Low,First Aid,No,Procedure not followed,Additional supervision allocated,Closed
+INC-0128,2026-09-22,07:19,Day,Level 8 Haulage,Underground Mining,Equipment Damage,Medium,No Injury,No,Poor housekeeping,Procedure revised,Closed
+INC-0001,2026-09-22,15:29,Afternoon,Thickener Area,Processing Plant,Hand/Finger Injury,Low,Lost Time Injury,Yes,Equipment failure,Lighting improved,Closed
+INC-0063,2026-09-23,01:50,Night,Blast Area B,Open Pit,Chemical Exposure,Low,First Aid,No,Poor housekeeping,Retraining of crew,Closed
+INC-0018,2026-09-24,11:16,Day,Level 8 Haulage,Underground Mining,Near Miss,Medium,No Injury,No,Equipment failure,Retraining of crew,Closed
+INC-0095,2026-09-26,18:06,Afternoon,Level 12 Stope,Underground Mining,Near Miss,Low,No Injury,No,Procedure not followed,Lighting improved,Under Investigation
+INC-0089,2026-09-27,23:48,Night,Waste Dump,Open Pit,Slip/Trip/Fall,High,Lost Time Injury,Yes,Inadequate supervision,Retraining of crew,Open
+INC-0023,2026-09-30,13:02,Day,Pit North Bench,Open Pit,Near Miss,Critical,No Injury,No,Inadequate supervision,Procedure revised,Closed
+INC-0098,2026-09-30,18:28,Afternoon,Main Workshop,Maintenance Workshop,Equipment Damage,Medium,No Injury,No,Poor visibility,Retraining of crew,Closed
+INC-0061,2026-10-03,06:55,Day,Weighbridge,Logistics,Near Miss,High,No Injury,No,Poor housekeeping,Retraining of crew,Closed
+INC-0074,2026-10-03,02:14,Night,Pit South Ramp,Open Pit,Near Miss,Low,No Injury,No,Poor housekeeping,PPE refresher issued,Closed
+INC-0032,2026-10-06,12:16,Day,Tyre Bay,Maintenance Workshop,Chemical Exposure,Low,Lost Time Injury,Yes,Fatigue,Retraining of crew,Under Investigation
+INC-0006,2026-10-07,07:01,Day,Thickener Area,Processing Plant,Near Miss,Low,No Injury,No,Poor housekeeping,Equipment inspected and repaired,Closed
+INC-0041,2026-10-07,05:29,Night,Pit North Bench,Open Pit,Near Miss,Critical,No Injury,No,Poor visibility,Area barricaded and cleaned,Under Investigation
+INC-0076,2026-10-07,05:22,Night,Pit North Bench,Open Pit,Slip/Trip/Fall,Low,First Aid,No,Procedure not followed,Additional supervision allocated,Under Investigation
+INC-0103,2026-10-08,03:03,Night,Level 8 Haulage,Underground Mining,Near Miss,Critical,No Injury,No,PPE not worn,Equipment inspected and repaired,Open
+INC-0046,2026-10-10,00:42,Night,Shaft 2 Station,Underground Mining,Equipment Damage,Medium,No Injury,No,PPE not worn,Equipment inspected and repaired,Closed
+INC-0099,2026-10-11,11:27,Day,Pit South Ramp,Open Pit,Equipment Damage,Medium,No Injury,No,Inadequate supervision,Ground support installed,Closed
+INC-0106,2026-10-14,16:27,Afternoon,Blast Area B,Open Pit,Fall of Ground,High,First Aid,No,Training gap,Procedure revised,Under Investigation
+INC-0062,2026-10-17,03:11,Night,Thickener Area,Processing Plant,Hand/Finger Injury,Medium,Medical Treatment,No,Poor housekeeping,Additional supervision allocated,Closed
+INC-0083,2026-10-17,08:14,Day,Level 8 Haulage,Underground Mining,Fall of Ground,High,Medical Treatment,No,Procedure not followed,Equipment inspected and repaired,Closed
+INC-0081,2026-10-18,23:22,Night,Weighbridge,Logistics,Fall of Ground,High,First Aid,No,Procedure not followed,Ground support installed,Closed
+INC-0051,2026-10-23,09:49,Day,Shaft 2 Station,Underground Mining,Chemical Exposure,Low,First Aid,No,Fatigue,Procedure revised,Closed
+INC-0097,2026-10-23,16:17,Afternoon,Weighbridge,Logistics,Equipment Damage,High,No Injury,No,Fatigue,Lighting improved,Open
+INC-0065,2026-10-23,10:10,Day,Level 12 Stope,Underground Mining,Vehicle Collision,High,Medical Treatment,No,Poor housekeeping,PPE refresher issued,Closed
+INC-0102,2026-10-24,00:45,Night,Survey Site,Engineering,Near Miss,Low,No Injury,No,PPE not worn,Procedure revised,Closed
+INC-0024,2026-10-26,01:07,Night,Pit South Ramp,Open Pit,Near Miss,Medium,No Injury,No,Equipment failure,Ground support installed,Under Investigation
+INC-0020,2026-10-26,20:44,Afternoon,Pit North Bench,Open Pit,Near Miss,Medium,No Injury,No,Poor housekeeping,Ground support installed,Closed
+INC-0101,2026-10-26,18:47,Afternoon,Level 12 Stope,Underground Mining,Near Miss,Low,No Injury,No,Training gap,Equipment inspected and repaired,Closed
+INC-0050,2026-10-27,07:50,Day,Pit North Bench,Open Pit,Near Miss,High,No Injury,No,Training gap,Retraining of crew,Closed
+INC-0085,2026-10-27,05:12,Night,Engineering Office,Engineering,Fall of Ground,High,Medical Treatment,No,Equipment failure,Additional supervision allocated,Closed
